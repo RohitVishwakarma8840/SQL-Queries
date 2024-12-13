@@ -23,3 +23,8 @@ Here are the definitions based on the image you provided:
    - Examples of TCL commands: `START TRANSACTION`, `COMMIT`, `ROLLBACK`.
 
 Let me know if you'd like further explanation of any of these!
+
+
+NOTE :: =>
+// primary key constraints 
+makes the Column not null and unique automatically . 
